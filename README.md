@@ -1,4 +1,4 @@
-angular-webring
-===============
+react-webring
+==================
 
-AngularJS Webring Widget
+A ReactJS-based web ring widget
